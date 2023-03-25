@@ -1,1 +1,1 @@
-Duck Random Image Generator with Retrofit
+Random Duck Photo Generator with Retrofit
